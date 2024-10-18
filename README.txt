@@ -1,3 +1,1 @@
-This is a personal website of Reg.
-
-Currently under construction
+This code contains the professional web page of owner, Reg Almonte.
